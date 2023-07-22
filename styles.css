@@ -8,7 +8,7 @@ body {
 section div {
     display: flex;
     align-items: end;
-    background-image: url(Imagenes/portada.jpg);
+    background-image: url(imagenes/portada.jpg);
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
